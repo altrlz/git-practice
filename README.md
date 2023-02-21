@@ -2,4 +2,5 @@
 for git practice
 
 ## merge-test
-add from branchB
+add from branch-A
+add from branch-B
